@@ -4,16 +4,16 @@
     "Name": "Astro",
     "Description": "Simplify the astrologian's operation.",
     "Changelog": "ver 1.28 - Fixed cause of crash.\nver 1.27 - Fixed a bug that caused cards to be \"draw\" to random players when the \"Enable Burst Card\" option was selected.",
-    "IconUrl": "https://github.com/aiczk/Astro/raw/main/Resource/space.png",
+    "IconUrl": "https://github.com/LJW7395/Astro/raw/main/Resource/space.png",
     "InternalName": "Astro",
     "AssemblyVersion": "0.0.1.28",
-    "RepoUrl": "https://github.com/aiczk/Astro",
+    "RepoUrl": "https://github.com/LJW7395/Astro",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 6,
+    "DalamudApiLevel": 8,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/aiczk/Astro/raw/main/Resource/latest.zip",
-    "DownloadLinkTesting": "https://github.com/aiczk/Astro/raw/main/Resource/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/aiczk/Astro/raw/main/Resource/latest.zip"
+    "DownloadLinkInstall": "https://github.com/LJW7395/Astro/raw/main/Resource/latest.zip",
+    "DownloadLinkTesting": "https://github.com/LJW7395/Astro/raw/main/Resource/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/LJW7395/Astro/raw/main/Resource/latest.zip"
   }
 ]
