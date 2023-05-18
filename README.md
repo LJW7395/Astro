@@ -1,7 +1,10 @@
+Attempted fix by updating the Dalamud API version. (No it doesn't work, F)
+
+
 # Astro
 
 Simplify the astrologian's operation.
-`https://raw.githubusercontent.com/aiczk/Astro/main/Astro/Astro.json`
+`https://raw.githubusercontent.com/LJW7395/Astro/main/Astro/Astro.json`
 
 ## About
 Astro realizes the system by forcibly intervening in the action cue system.
