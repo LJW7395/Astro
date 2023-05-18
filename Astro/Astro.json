@@ -9,7 +9,7 @@
     "AssemblyVersion": "0.0.1.28",
     "RepoUrl": "https://github.com/LJW7395/Astro",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 6,
+    "DalamudApiLevel": 7,
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://github.com/LJW7395/Astro/raw/main/Resource/latest.zip",
